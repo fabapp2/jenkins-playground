@@ -19,6 +19,6 @@ package de.fabiankrueger.jenkins;/*
  */
 public class MyClass {
     public static void main(String[] args) {
-        System.out.println("Welcome... and good bye");
+        System.out.println("Welcome... and good bye!");
     }
 }
